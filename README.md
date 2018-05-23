@@ -1,5 +1,5 @@
 # Simple very 
-Very soimple social network base on Express, Node.js, MongoDB and Socket.io
+Very simple social network built with Express, Node.js, MongoDB and Socket.io
 
 
 
