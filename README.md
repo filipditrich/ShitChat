@@ -1,4 +1,5 @@
-# Simple social network (ShitChat) base off Express, Node.js, MongoDB and Socket.io
+# Simple very 
+Very soimple social network base on Express, Node.js, MongoDB and Socket.io
 
 
 
